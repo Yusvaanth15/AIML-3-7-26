@@ -258,7 +258,7 @@ Weather-Prediction/
 ### Clone the Repository
 
 ```bash
-https://github.com/Yusvaanth15/AIML-3-7-26/blob/main/AIML_CT_PROJECT_(2).ipynb
+https://github.com/Yusvaanth15/AIML-3-7-26
 ```
 
 ### Navigate to the Project
