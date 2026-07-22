@@ -196,10 +196,10 @@ The model is evaluated using:
 
 | Metric | Value |
 |---------|-------|
-| Accuracy | XX.XX % |
-| Precision | XX.XX % |
-| Recall | XX.XX % |
-| F1-Score | XX.XX % |
+| Accuracy | 81 % |
+| Precision | 81 % |
+| Recall | 81 % |
+| F1-Score | 81 % |
 
 > Replace these values with your actual model performance.
 
@@ -258,7 +258,7 @@ Weather-Prediction/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Weather-Prediction.git
+https://github.com/Yusvaanth15/AIML-3-7-26/blob/main/AIML_CT_PROJECT_(2).ipynb
 ```
 
 ### Navigate to the Project
